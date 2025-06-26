@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">👩‍💻 Junior Software Engineer</h3>
+<h3 align="center"> 🚀 Junior Software Engineer 🚀 </h3>
 
 ###
 
@@ -20,7 +20,7 @@
 <p align="left">
 <h3> I'm Musharraf Mahad from Dire-Dawa <br><br> </h3>
 🔭 I’m working on improving my skills in software engineering<br>
-📚 I'm currently learning web development (HTML, CSS, JavaScript) and DevOps<br>
+📚 I'm currently learning web development and DevOps<br>
 🛠️ Building C++ projects like a Document Navigation System and ATM Simulation<br>
 ⚡ In my free time I explore new technologies, read tech blogs, and contribute to personal projects
 </p>
@@ -41,7 +41,22 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><sub><b>Git</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br><sub><b>VS Code</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/><br><sub><b>Visual Studio</b></sub></td>
+ <td align="center">
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40"/><br>
+  <sub><b>GitHub</b></sub>
+   <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
+  <sub><b>Git Bash</b></sub>
+     <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40"/><br>
+  <sub><b>Bitbucket</b></sub>
+</td>
+</td>
+
+</td>
+
+
+    
   </tr>
 </table>
 
