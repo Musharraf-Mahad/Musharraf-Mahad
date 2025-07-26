@@ -59,11 +59,3 @@
     
   </tr>
 </table>
-
-###
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&lines=Junior+Software+Engineer;Passionate+about+Web+%26+C%2B%2B+Development;Always+learning+something+new+💡" alt="Typing SVG" />
-</p>
-
-###
