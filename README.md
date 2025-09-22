@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/musharraf-mahad-0424ba218/" target="_blank">LinkedIn</a> |
   <a href="https://t.me/MMHyeb" target="_blank">Telegram</a> |
-  <a href="mailto:musharafmahad17@gmail.com" target="_blank">Email</a> |
+  <a href="mailto:musharafmahad17@gmail.com" target="_blank">Email</a> 
 </div>
 
 ###
