@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center"> 🚀 Junior Software Engineer 🚀 </h3>
+<h3 align="center"> 🚀 Software Engineer 🚀 </h3>
 
 ###
 
@@ -37,6 +37,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br><sub><b>JavaScript</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br><sub><b>SQL</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br><sub><b>C#</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br><sub><b>Java</b></sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br><sub><b>Git</b></sub></td>
