@@ -20,7 +20,7 @@
 <h3> I'm Musharraf Mahad from Dire-Dawa <br><br> </h3>
 🔭 I’m working on improving my skills in software engineering<br>
 📚 I'm currently learning web development and DevOps<br>
-🛠️ Building C++ projects like a Document Navigation System and ATM Simulation<br>
+🛠️ Building projects like a Document Navigation System and ATM Simulation<br>
 ⚡ In my free time I explore new technologies, read tech blogs, and contribute to personal projects
 </p>
 
