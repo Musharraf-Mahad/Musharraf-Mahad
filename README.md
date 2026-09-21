@@ -43,7 +43,8 @@
 </p>
 
 <p align="center">
- 🌐 **Portfolio:** [musharraf.me](https://musharraf.me)
+  🌐 <strong>Portfolio:</strong>
+  <a href="https://musharraf.me">musharraf.me</a>
 </p>
 
 ---
